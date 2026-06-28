@@ -1,3 +1,4 @@
 # About me
 
-- Hi, I’m [`Shreyas Jenner`](https://github.com/ShreyasJenner).
+- Hi, I’m Shreyas George Jenner
+- Here's the link to my [portfolio](https://shreyasjenner.github.io/)
